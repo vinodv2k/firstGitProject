@@ -14,6 +14,8 @@ To give you a brief overview, we're going to:
 * Bootstrap a boxen for your self/team/org/company
 * Then convert your local copy of that boxen to the post-bootstrapped version
 
+Test text
+
 There are a few potential conflicts to keep in mind.
 Boxen does its best not to get in the way of a dirty system,
 but you should check into the following before attempting to install your
